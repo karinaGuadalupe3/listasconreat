@@ -1,0 +1,13 @@
+h1 {
+    color:rgb(194, 9, 163);
+}
+
+button {
+    background-color: rgb(246, 248, 246);
+    color: rgb(29, 4, 168);
+    text-transform: uppercase;
+    width: 200px;
+    height: 60px;
+    border-radius: 0;
+
+}
